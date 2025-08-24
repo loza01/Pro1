@@ -9,10 +9,10 @@ This repository contains the code and setup for the **Home Page** of our project
 ## ToDo
 
 ### 1. 🔁 Logo Update
-- Cgange the Logo with a new image to reflect current branding.
+- Change the Logo with a new image to reflect current branding.
 
 ### 2. Background Image Update
-- Add 3 new, visually appealing background images for each 3 section of header Home Page.
+- Add 3 new, visually appealing background images for each 3 sections of header Home Page.
 
 ### 3. Header Images & Button Links
 Each of the three header images includes a call-to-action button with proper redirection, make sure they redirect to the right page
